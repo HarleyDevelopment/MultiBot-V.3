@@ -35,7 +35,7 @@ module.exports = {
             },
             {
                 name: "**Want to purchase me?**",
-                value: 'If you are looking to purchase a bot, just like this. Go the following [link](https://discord.gg/ksv9GaZJ74)'
+                value: 'If you are looking to purchase a bot, just like this. Go the following [link](https://discord.gg/tKy4tqyc3y)'
             }, 
             {
                 name: '**About Me:**',
