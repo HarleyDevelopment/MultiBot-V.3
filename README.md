@@ -48,10 +48,10 @@ This was recently released for free as I no-longer use the old server. You may j
 ## Credits
 **Members**
 
-[Jammez](https://discord.gg/9zcsrTrY8t) - Testing Command
-[Hyperz](https://hyperz.net) - Created the ALT prevention and node logger.
-[Hani]() - Providing Support. 
-[Crizzle](https://discord.gg/WjeUJmBqVv) - Some of the commands and dynamic permissions. 
+ [Jammez](https://discord.gg/9zcsrTrY8t) - Testing Command
+ [Hyperz](https://hyperz.net) - Created the ALT prevention and node logger.
+ [Hani]() - Providing Support. 
+ [Crizzle](https://discord.gg/WjeUJmBqVv) - Some of the commands and dynamic permissions. 
 
 **Tools**
 
