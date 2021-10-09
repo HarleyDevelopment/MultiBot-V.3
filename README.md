@@ -46,19 +46,19 @@ This was recently released for free as I no-longer use the old server. You may j
 
 ---
 ## Credits
-## Members
+**Members**
 
 [Jammez](https://discord.gg/9zcsrTrY8t) - Testing Command
 [Hyperz](https://hyperz.net) - Created the ALT prevention and node logger.
 [Hani]() - Providing Support. 
 [Crizzle](https://discord.gg/WjeUJmBqVv) - Some of the commands and dynamic permissions. 
 
-## Tools
+**Tools**
 
 [VSC](https://code.visualstudio.com/)
 [Node.JS](https://nodejs.org/)
 
-## Suggested
+**Suggested**
 
 You do not need a hosting, but I highly suggest obtaining one. Without one you may not be able to keep your bot online 24/7. If you do not want to keep your bot online for that long then just ignore this message. 
 [Snowside Hosting](https://snowsidehosting.com/aff.php?aff=41)
