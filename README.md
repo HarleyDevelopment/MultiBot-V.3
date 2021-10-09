@@ -39,3 +39,27 @@ I want to say if you bought the old bot, and lost all of doubt, I suggest you gi
 I have also now introduced some dynamic permissions. This means you can have as many permissions per command as you wish. Instead of my old bots where it would only accept one role, you can now do as many as you want!
 
 I have got more of a flow, having embeds with multiple different styles look bad. All of the embeds now look all the same and together. You can find this buy using any two commands. 
+
+## Information
+If you're going to be using code snippets then please leave credits.
+This was recently released for free as I no-longer use the old server. You may join my new support server [here](https://discord.gg/tKy4tqyc3y)
+
+---
+## Credits
+## Members
+
+[Jammez](https://discord.gg/9zcsrTrY8t) - Testing Command
+[Hyperz](https://hyperz.net) - Created the ALT prevention and node logger.
+[Hani]() - Providing Support. 
+[Crizzle](https://discord.gg/WjeUJmBqVv) - Some of the commands and dynamic permissions. 
+
+## Tools
+
+[VSC](https://code.visualstudio.com/)
+[Node.JS](https://nodejs.org/)
+
+## Suggested
+
+You do not need a hosting, but I highly suggest obtaining one. Without one you may not be able to keep your bot online 24/7. If you do not want to keep your bot online for that long then just ignore this message. 
+[Snowside Hosting](https://snowsidehosting.com/aff.php?aff=41)
+
