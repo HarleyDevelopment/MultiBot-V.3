@@ -30,7 +30,6 @@ const _config = {
     // Main Config (Required) \\
     botToken: 'Fucking awesome', // Bot token, this can be found here: https://discord.com/developers/applications
     botPrefix: '-',
-    licenseKey: 'test',
     botID: '877537676016893992', // can be found within your discord! Right click the bot and hit COPY ID
     debugMode: false, // False by defualt .. Display errors (fatal errors will still display).
     botStatus: "https://h4r1ey-dev.xyz",
